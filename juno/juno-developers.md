@@ -45,7 +45,7 @@ Simon Warta (Confio) [https://twitter.com/simon\_warta](https://twitter.com/simo
 
 Highlander (Highlander Nodes) [https://twitter.com/HighlanderNodes](https://twitter.com/HighlanderNodes)
 
-Orkun (Confio) [https://twitter.com/zl00ba](https://twitter.com/zl00ba)
+Orkun (deus labs) [https://twitter.com/zl00ba](https://twitter.com/zl00ba)
 
 Denis Fadeev (Tendermint) [https://twitter.com/fadeev](https://twitter.com/fadeev)
 
